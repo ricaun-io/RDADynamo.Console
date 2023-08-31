@@ -20,7 +20,7 @@ This project is [licensed](LICENSE) under the [MIT Licence](https://en.wikipedia
 
 ---
 
-Do you like this project? Please [star this project on GitHub](https://github.com/ricaun-io/forge-api-dotnet-oss.design.automation/stargazers)!
+Do you like this project? Please [star this project on GitHub](https://github.com/ricaun-io/RDADynamo.Console/stargazers)!
 
 [Video1]: https://youtu.be/MEW3JsoRgc4
 [VideoIma1]: https://img.youtube.com/vi/MEW3JsoRgc4/mqdefault.jpg
